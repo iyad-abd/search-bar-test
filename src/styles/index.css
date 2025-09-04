@@ -1,0 +1,7 @@
+/* Import all style modules */
+@import './base.css';
+@import './layout.css';
+@import './search.css';
+@import './results.css';
+@import './highlight.css';
+@import './responsive.css';
